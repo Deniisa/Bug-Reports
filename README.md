@@ -35,7 +35,7 @@ P6 - Low
 **Description**
 This website doesn't have a customed 404 Page.
 This error message is displayed: Error: Not Found
-The requested URL /hiijnolko was not found on this server.
+The requested URL /cart was not found on this server.
 
 **Steps to reproduce**
 1. Go to www.demoblaze.com
